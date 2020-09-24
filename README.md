@@ -24,9 +24,9 @@ scikit_learn==0.22.2.post1
 
 # Project Motivation
 For this project, I was interested in using the UCI Machine Learning Repository's wine quality dataset to better understand:
-1. Is red wine or white wine better in quality?
-2. What are differences in properties between white wine and red wine?
-3. Can we predict if it's white wine or red wine based on its properties?
+1. Is white wine or red wine better in quality?
+2. What properties are different between Vinho Verde white and red wines?
+3. Can we predict if it is Vinho Verde white wine or red wine based on its properties?
 
 # File Description
 The winequality_red.csv and winequality_white.csv are from UCI Machine Learning Repository(https://archive.ics.uci.edu/ml/datasets/wine+quality), and the data is sourced by:
