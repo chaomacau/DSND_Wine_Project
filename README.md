@@ -30,9 +30,12 @@ For this project, I was interested in using the UCI Machine Learning Repository'
 
 # File Description
 The winequality_red.csv and winequality_white.csv are from UCI Machine Learning Repository(https://archive.ics.uci.edu/ml/datasets/wine+quality), and the data is sourced by:
+
 Paulo Cortez, University of Minho, Guimarães, Portugal, http://www3.dsi.uminho.pt/pcortez
+
 A. Cerdeira, F. Almeida, T. Matos and J. Reis, Viticulture Commission of the Vinho Verde Region(CVRVV), Porto, Portugal
 @2009
+
 Description of data can also be found in the Repository website.
 
 The Wine_Project_draft1.ipynb is the jupyter notebook for the analyses done pertaining to the questions above. Markdowns were used for easy following of the analyses.
