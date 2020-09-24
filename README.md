@@ -4,13 +4,13 @@
 
 [1. Installation](#Installation)
 
-[2. Project Motivation](#ProjectMotivation)
+[2. Project Motivation](#Project-Motivation)
 
-[3. File Description](#FileDescription)
+[3. File Description](#File-Description)
 
 [4. Results](#Results)
 
-[5. Licensing, Authors, and Acknowledgements](#Licensing,Authors,andAcknowledgements)
+[5. Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-and-Acknowledgements)
 
 # Installation
 seaborn==0.10.1  
